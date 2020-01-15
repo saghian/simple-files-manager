@@ -12,12 +12,14 @@
 </head>
 <body>
 
+<div class="container">
 <form action="" method="POST" enctype="multipart/form-data" name="uploadForm">
 
 <input type="file" class="input" name="file"> 
 <input type="submit" value="Upload" name="submitForm">
 
 </form>
+</div>
 
     
 </body>

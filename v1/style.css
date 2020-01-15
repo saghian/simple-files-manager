@@ -1,3 +1,10 @@
 body {
     background-color: bisque;
 }
+
+.container {
+    width: 700px;
+    min-height: 200px;
+    margin: 0 auto;
+    background-color: burlywood;
+}
